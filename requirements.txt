@@ -1,3 +1,5 @@
 fastapi
 uvicorn
 pydantic
+puthon-dotenv
+openai
